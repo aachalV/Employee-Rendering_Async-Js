@@ -24,7 +24,7 @@
 
 ### Deployment
   - Hosted using GitHub Pages
-  - click here () for live Demo
+  - click here (https://aachalv.github.io/Employee-Rendering_Async-Js/) for live Demo
       > To run the project locally clone it and run the index.html file using live server 
       
  
