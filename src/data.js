@@ -7,7 +7,3 @@ export const data = (async () => {
 
     return response.data;
 })()
-
-// (() => {
-//    //jkhjmbcmzx
-// })()
